@@ -124,6 +124,7 @@ body {
 #video {
     position: absolute;
     left: 32%;
+    top: auto;
     /*background: url(../img/reflection.jpg) no-repeat;*/
     width: 28%;
     z-index: 1;
@@ -200,6 +201,7 @@ body {
 #application {
     position: absolute;
     right: 3%;
+    top: auto;
     width: 28%;
     z-index: 2;
     text-align: center;
